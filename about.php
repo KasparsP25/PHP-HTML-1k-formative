@@ -16,5 +16,9 @@ echo("About");
 foreach ($indexedArray as $index)
 echo("<p>" . $index);
     ?>
+     <ul>
+ <li><a href="index.html"><button>Homepage</button></a>
+ <li><a href="contact.html"><button>Contact</button></a>
+    </ul>
 </body>
 </html>
